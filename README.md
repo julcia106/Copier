@@ -101,7 +101,7 @@ Napisz ponownie klasę `Copier`, ale przyjmując następujące założenia:
 * funkcjonalności takie same jak w zadaniu 1,
 
 * skorzystaj z poniższego diagramu:
-    ![Diagram klas - zad. 3](ClassDiagram-ver2.png)
+    !![image](https://user-images.githubusercontent.com/42476893/109951267-c5052f00-7cdd-11eb-8fa0-989615e9bf65.png)
 
 * będziesz musiał utworzyć klasy konkretne `Printer` oraz `Scanner` (implementacje `IPrinter` oraz `IScanner`),
 
