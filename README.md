@@ -22,7 +22,7 @@ Orientacyjny czas realizacji ćwiczenia: od 60 do 90 minut.
 
 Korzystając z załączonego kodu, diagramu klas oraz kodu testów jednostkowych zaprogramuj klasę `Copier` symulującą działanie kserokopiarki (kserowanie dokumentów), z możliwością niezależnego drukowania oraz skanowania dokumentów.
 
-![Diagram klas - zad. 1](ClassDiagram-ver1.png)
+![image](https://user-images.githubusercontent.com/42476893/109951185-a737ca00-7cdd-11eb-8233-b9cd18930057.png)
 
 * Plik [Devices.cs](Devices.cs)
 * Plik [Documents.cs](Documents.cs)
